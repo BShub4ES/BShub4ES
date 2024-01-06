@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Beshoy Sameh
+- 👀 I’m interested in Coding, Robotics, Embedded Systems, Arduino, CNC, PLC, HMI, Mechanical Designs, Electrical Designs, PCB Designs
+- 🌱 I’m currently learning Embedded Systems advanced Courses to be Certified as an Embedded Systems Engineer
+- 💞️ I’m looking to collaborate on any Project related to the previous topics
+- 📫 How to reach me you can Contact me here or on Waht's up app on +201101303969
